@@ -1,0 +1,56 @@
+# Resources
+### Progress Tracking
+* [Warcraft Logs](https://www.warcraftlogs.com/)
+* [Raider.io](https://raider.io/tomb-of-sargeras/rankings/world/mythic)
+* [WoW Progress](https://www.wowprogress.com/)
+* [WoW Audit](https://wowaudit.com/)
+* [AP World Ranking](https://apinfo.gerritalex.de/)
+* [Realm Pop](https://realmpop.com/)
+### Simulations
+* [Raidbots](https://www.raidbots.com/simbot)
+* [Simcraft](http://simulationcraft.org/)
+* [Simcraft Guide](https://www.reddit.com/r/CompetitiveWoW/comments/2ro1nf/detailed_tutorial_on_indepth_simulationcraft_usage/)
+### Log Analysis
+* [Checkmywow](https://www.checkmywow.com/)
+* [WoWanalyzer](https://wowanalyzer.com/#/)
+### Mythic +
+* [Mythicpl.us](https://mythicpl.us/)
+* [Mythicplus.help](http://mythicplus.help/)
+* [NA M+ Discord](https://discord.gg/H66r3Wd)
+* [EU M+ Discord](https://discord.gg/BbZ5n3P)
+* [M+ Friends Discord](https://discord.gg/4JgsMQs)
+* [Dungeon Gear Targeting](https://docs.google.com/spreadsheets/d/1cXuVv1k-x93233lhEC-Wp64QfiK49sYQcZGFUMWXT4A/edit?usp=sharing)
+### Economy
+* [TradeskillMaster](https://www.tradeskillmaster.com/)
+* [The Undermine Journal](https://theunderminejournal.com/)
+* [The Lazy Goldmaker](http://thelazygoldmaker.com/)
+* [TradeskillMaster Groups / Operations](https://pastebin.com/u/Sheyrah)
+### PvP
+* [Arena Tracker](https://arenatracker.com/)
+* [Arena Mate](http://www.arenamate.net/)
+* [Arena Junkies](http://www.arenajunkies.com/)
+* [GCDtv Battlefy](https://battlefy.com/gcdtv)
+* [GCDtv Twitch](https://www.twitch.tv/gcdtv) 
+### Class Discords
+* [Death Knight](https://discord.gg/0ez1cFfUH3ingV96)
+* [Demon Hunter](https://discord.gg/zGGkNGC)
+* [Druid](https://discord.gg/0dWu0WkuetF87H9H)
+* [Hunter](https://discord.gg/yqer4BX)
+* [Mage](https://discord.gg/0gLMHikX2aZ23VdA)
+* [Monk](https://discord.gg/0dkfBMAxzTkWj21F)
+* [Paladin](https://discord.gg/0dvRDgpa5xZHFfnD)
+* [Priest](https://discord.gg/0f1Ta8lT8xXXEAIY)
+* [Rogue](https://discord.gg/0h08tydxoNhfDVZf)
+* [Shaman](https://discord.gg/0VcupJEQX0HuE5HH)
+* [Warlock](https://discord.gg/0onXDymd9Wpc2CEu)
+* [Warrior](https://discord.gg/0pYY7932lTH4FHW6)
+* [Weak Auras](https://discord.me/wa2)
+* [Tank Chat](https://discord.gg/fGzZSA5)
+* [Healer Chat](https://discord.gg/0l64WMq72BIzjH3C)
+### Subreddits
+* [WoW](https://reddit.com/r/wow)
+* [Competitive Wow](https://reddit.com/r/competitiveWoW)
+* [WoW Economy](https://reddit.com/r/woweconomy)
+* [World of PvP](https://reddit.com/r/worldofpvp)
+### Youtube Channels
+* [FatbossTV](https://www.youtube.com/user/FatbossTV)
