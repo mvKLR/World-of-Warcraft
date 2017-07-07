@@ -6,6 +6,8 @@
 * [WoW Audit](https://wowaudit.com/)
 * [AP World Ranking](https://apinfo.gerritalex.de/)
 * [Realm Pop](https://realmpop.com/)
+* [Advanced Guild Statistics](http://ags.gerritalex.de/)
+* [Advanced Armory](https://armory.gerritalex.de/)
 ### Simulations
 * [Raidbots](https://www.raidbots.com/simbot)
 * [Simcraft](http://simulationcraft.org/)
@@ -25,6 +27,10 @@
 * [The Undermine Journal](https://theunderminejournal.com/)
 * [The Lazy Goldmaker](http://thelazygoldmaker.com/)
 * [TradeskillMaster Groups / Operations](https://pastebin.com/u/Sheyrah)
+* [WoW Token Info](https://wowtoken.info/)
+* [Gold Making Spreadsheet](https://www.reddit.com/r/woweconomy/comments/5n0off/gold_making_spreadsheets_legion/)
+* [Professions Crafting](https://www.reddit.com/r/woweconomy/comments/61m0jj/professioncrafting_auctioning_toolwebapp/
+)
 ### PvP
 * [Arena Tracker](https://arenatracker.com/)
 * [Arena Mate](http://www.arenamate.net/)
